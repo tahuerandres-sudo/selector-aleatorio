@@ -1,0 +1,6 @@
+{
+  "name": "Random Apprentice Selector",
+  "description": "Minimalist, modern, and projection-ready web app for instructors to organize apprentices into groups and randomly select them with high visual impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
